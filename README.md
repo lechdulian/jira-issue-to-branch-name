@@ -1,7 +1,7 @@
 # JIRA issue to branch name
-Simple Chrome bookmarklet to generate feature branch name from Jira issue
+Simple Chrome bookmarklet to generate feature branch name from Jira issue.
 
-Are you tired of remembering and rewriting the project code, task name and task number when creating a feature branch in you git tools?
+Are you tired of remembering and rewriting the project code, task name and task number when creating a feature branch in you git tools? Or copy-pasting it from multiple Jira fields and pasting one after another?
 
 This simple bookmarklet for Chrome will create a feature branch name for you and copy it to clipboard.
 
